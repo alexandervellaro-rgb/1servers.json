@@ -1,0 +1,30 @@
+[
+    {
+        "online": "20",
+        "maxonline": "1000",
+        "color": "FF0000",
+        "x2": "true",
+        "key": "1424",
+        "name": "LONEXS",
+        "firstname": "SAMARA",
+        "secondname": "",
+        "url": "samara.blackrussia.online",
+        "ip": "188.127.241.74",
+        "port": "3303"
+
+    },
+    {
+        "online": "20",
+        "maxonline": "1000",
+        "color": "FFFFFF",
+        "x2": "true",
+        "key": "1424",
+        "name": "LONEXS",
+        "firstname": "VOLGOGRAD",
+        "secondname": "",
+        "url": "volgograd.blackrussia.online",
+        "ip": "188.127.241.74",
+        "port": "3303"
+
+    }
+]
